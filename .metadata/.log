@@ -1,0 +1,42 @@
+!SESSION 2017-07-14 13:05:38.328 -----------------------------------------------
+eclipse.buildId=M20070212-1330
+java.version=1.5.0_11
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -data E:\语言\jsp\jspPro\HumanSalary -os win32 -ws win32 -arch x86
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-07-14 13:05:50.078
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 5.5.1 GA\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_5.5.1\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-07-14 13:05:50.281
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 5.5.1 GA\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_5.5.1\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-07-14 13:05:50.468
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 5.5.1 GA\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_5.5.1\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-07-14 13:05:50.671
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 5.5.1 GA\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_5.5.1\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-07-14 13:05:50.906
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 5.5.1 GA\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_5.5.1\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-07-14 13:05:51.140
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 5.5.1 GA\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_5.5.1\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-07-14 13:05:51.375
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 5.5.1 GA\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_5.5.1\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-07-14 13:05:51.609
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 5.5.1 GA\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_5.5.1\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-07-14 13:05:51.875
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 5.5.1 GA\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_5.5.1\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-07-14 13:05:52.125
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 5.5.1 GA\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_5.5.1\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2017-07-14 13:05:52.375
+!MESSAGE Installed snippet library: C:\Program Files\MyEclipse 5.5.1 GA\myeclipse\eclipse\plugins\com.genuitec.eclipse.wizards_5.5.1\snippets\jsp\struts_tiles_snippets.xml
+
+!ENTRY com.tikal.eclipse.updatemanager.quicksetup 4 4 2017-07-14 13:06:28.671
+!MESSAGE Network connection problems encountered during search.
